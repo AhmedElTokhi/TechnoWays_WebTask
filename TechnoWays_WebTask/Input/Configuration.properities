@@ -1,0 +1,12 @@
+
+browser=Chrome
+#browser=firefox
+
+
+
+URL=https://www.youtube.com/
+Keyword1=Selenium Tutorial
+Keyword2=Test Automation Tutorial
+
+Case1VideoNo=3
+Case3VideoNo=10

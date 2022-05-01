@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-01T06:28:01 EET" name="Suite" finished-at="2022-05-01T06:28:42 EET" duration-ms="40034">
+    <groups>
+    </groups>
+    <test started-at="2022-05-01T06:28:01 EET" name="Test" finished-at="2022-05-01T06:28:42 EET" duration-ms="40034">
+      <class name="TCs.Case2">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TCs.Case2@794cb805]" started-at="2022-05-01T06:28:16 EET" name="Setup" finished-at="2022-05-01T06:28:21 EET" duration-ms="5444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchBy_TestAutomationTutorial()[pri:0, instance:TCs.Case2@794cb805]" started-at="2022-05-01T06:28:21 EET" name="SearchBy_TestAutomationTutorial" finished-at="2022-05-01T06:28:27 EET" duration-ms="5950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBy_TestAutomationTutorial -->
+        <test-method is-config="true" signature="Teardown(org.testng.ITestResult)[pri:0, instance:TCs.Case2@794cb805]" started-at="2022-05-01T06:28:27 EET" name="Teardown" finished-at="2022-05-01T06:28:28 EET" duration-ms="584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBy_TestAutomationTutorial status=SUCCESS method=Case2.SearchBy_TestAutomationTutorial()[pri:0, instance:TCs.Case2@794cb805] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- TCs.Case2 -->
+      <class name="TCs.Case3">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TCs.Case3@4b5a5ed1]" started-at="2022-05-01T06:28:28 EET" name="Setup" finished-at="2022-05-01T06:28:35 EET" duration-ms="7444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchBy_SeleniumTutorial_Display10thVideo()[pri:0, instance:TCs.Case3@4b5a5ed1]" started-at="2022-05-01T06:28:35 EET" name="SearchBy_SeleniumTutorial_Display10thVideo" finished-at="2022-05-01T06:28:41 EET" duration-ms="5910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBy_SeleniumTutorial_Display10thVideo -->
+        <test-method is-config="true" signature="Teardown(org.testng.ITestResult)[pri:0, instance:TCs.Case3@4b5a5ed1]" started-at="2022-05-01T06:28:41 EET" name="Teardown" finished-at="2022-05-01T06:28:42 EET" duration-ms="348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBy_SeleniumTutorial_Display10thVideo status=SUCCESS method=Case3.SearchBy_SeleniumTutorial_Display10thVideo()[pri:0, instance:TCs.Case3@4b5a5ed1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- TCs.Case3 -->
+      <class name="TCs.Case1">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TCs.Case1@7a4ccb53]" started-at="2022-05-01T06:28:02 EET" name="Setup" finished-at="2022-05-01T06:28:10 EET" duration-ms="8678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchBy_SeleniumTutorial_Display3rdVideo()[pri:0, instance:TCs.Case1@7a4ccb53]" started-at="2022-05-01T06:28:10 EET" name="SearchBy_SeleniumTutorial_Display3rdVideo" finished-at="2022-05-01T06:28:15 EET" duration-ms="5205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBy_SeleniumTutorial_Display3rdVideo -->
+        <test-method is-config="true" signature="Teardown(org.testng.ITestResult)[pri:0, instance:TCs.Case1@7a4ccb53]" started-at="2022-05-01T06:28:15 EET" name="Teardown" finished-at="2022-05-01T06:28:16 EET" duration-ms="425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBy_SeleniumTutorial_Display3rdVideo status=SUCCESS method=Case1.SearchBy_SeleniumTutorial_Display3rdVideo()[pri:0, instance:TCs.Case1@7a4ccb53] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- TCs.Case1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

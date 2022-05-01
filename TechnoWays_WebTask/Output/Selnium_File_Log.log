@@ -1,0 +1,123 @@
+
+-------------------------------------------------------------------
+[2022-05-01 02:47:33] INFO   (TCs.Case1 ) -  Line 27-------------\n:@Test Case1: SearchBy_SeleniumTutorial and Display 3rd Video. 
+-------------------------------------------------------------------
+[2022-05-01 02:54:36] INFO   (TCs.Case1 ) -  Line 50-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:54:44] INFO   (TCs.Case1 ) -  Line 26-------------\n:@Test Case1: SearchBy_SeleniumTutorial and Display 3rd Video. 
+-------------------------------------------------------------------
+[2022-05-01 02:54:49] INFO   (TCs.Case1 ) -  Line 62:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:54:49] INFO   (TCs.Case2 ) -  Line 50-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:54:56] INFO   (TCs.Case2 ) -  Line 26-------------\n:@Test Case2: SearchBy_Test Automation Tutorial. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:02] INFO   (TCs.Case2 ) -  Line 62:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:02] INFO   (TCs.Case3 ) -  Line 51-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:07] INFO   (TCs.Case3 ) -  Line 26-------------\n:@Test Case3: SearchBy_SeleniumTutorial and Display 10th Video. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:13] INFO   (TCs.Case3 ) -  Line 44-------------\n:Result: Case3 Pass successfully.\n-------------. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:13] INFO   (TCs.Case3 ) -  Line 63:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 02:55:14] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 
+-------------------------------------------------------------------
+[2022-05-01 03:14:04] INFO   (TCs.Case1 ) -  Line 56-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:10] INFO   (TCs.Case1 ) -  Line 27-------------\n:@Test Case1: SearchBy_SeleniumTutorial and Display 3rd Video. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:16] INFO   (TCs.Case1 ) -  Line 76:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:16] INFO   (TCs.Case2 ) -  Line 58-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:22] INFO   (TCs.Case2 ) -  Line 28-------------\n:@Test Case2: SearchBy_Test Automation Tutorial. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:27] INFO   (TCs.Case2 ) -  Line 78:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:28] INFO   (TCs.Case3 ) -  Line 60-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:34] INFO   (TCs.Case3 ) -  Line 28-------------\n:@Test Case3: SearchBy_SeleniumTutorial and Display 10th Video. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] INFO   (TCs.Case3 ) -  Line 46-------------\n:Result: Case3 Pass successfully.\n-------------. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] INFO   (TCs.Case3 ) -  Line 80:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:40] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 
+-------------------------------------------------------------------
+[2022-05-01 03:14:41] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:41] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:41] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:41] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 03:14:41] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 
+-------------------------------------------------------------------
+[2022-05-01 06:28:02] INFO   (TCs.Case1 ) -  Line 56-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:10] INFO   (TCs.Case1 ) -  Line 27-------------\n:@Test Case1: SearchBy_SeleniumTutorial and Display 3rd Video. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:15] INFO   (TCs.Case1 ) -  Line 76:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:16] INFO   (TCs.Case2 ) -  Line 58-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:21] INFO   (TCs.Case2 ) -  Line 28-------------\n:@Test Case2: SearchBy_Test Automation Tutorial. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:27] INFO   (TCs.Case2 ) -  Line 78:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:28] INFO   (TCs.Case3 ) -  Line 60-------------\n:@BeforeMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:35] INFO   (TCs.Case3 ) -  Line 28-------------\n:@Test Case3: SearchBy_SeleniumTutorial and Display 10th Video. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:41] INFO   (TCs.Case3 ) -  Line 46-------------\n:Result: Case3 Pass successfully.\n-------------. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:41] INFO   (TCs.Case3 ) -  Line 80:@AfterMethod. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - TemplateLoader.findTemplateSource("Extent.ftl"): Found. 
+-------------------------------------------------------------------
+[2022-05-01 06:28:42] DEBUG  (freemarker.cache ) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ahmed/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl". 

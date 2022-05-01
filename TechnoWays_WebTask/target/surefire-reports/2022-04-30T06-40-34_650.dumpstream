@@ -1,0 +1,4 @@
+# Created at 2022-04-30T06:40:35.247
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automation_Test_WSpace\WorkSpace_Eclips\TechnoWaysTask\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

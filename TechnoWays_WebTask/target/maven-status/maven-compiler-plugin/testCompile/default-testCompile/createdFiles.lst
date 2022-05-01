@@ -1,0 +1,14 @@
+utils\Wait.class
+TCs\Case1.class
+utils\WebDriverFactory.class
+TCs\Case2.class
+Pages\youtubePage.class
+utils\ReadingPropertiesFile.class
+Pages\videoPage.class
+utils\ScreenCapture.class
+com\simplilearn\TechnoWaysTask\AppTest.class
+TCs\Common_Methods.class
+utils\LogInFile.class
+TCs\Case3.class
+utils\ExtentReporterNG.class
+utils\ClipBoard.class
